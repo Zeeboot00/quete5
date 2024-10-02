@@ -1,2 +1,2 @@
-# quete5
+LOCAL
 quelques lignes de code
